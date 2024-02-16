@@ -1,3 +1,4 @@
 "# starFighter" 
 "# starFighter" 
-\nSoon to be the greatest game ever created.
+
+Soon to be the greatest game ever created.
